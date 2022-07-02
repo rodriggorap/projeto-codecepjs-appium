@@ -1,6 +1,6 @@
 # Projeto de automação de teste com codecepjs e appium
 
-# Instalar dependencias:
+# Instalar dependências:
 
 ....
 npm install
